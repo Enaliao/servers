@@ -19,6 +19,10 @@ Typically, each MCP server is implemented with an MCP SDK:
 > [!NOTE]
 > Lists in this README are maintained in alphabetical order to minimize merge conflicts when adding new items.
 
+## 📚 Documentation
+
+- **[How to Create a Playwright MCP Server](docs/creating-playwright-mcp-server.md)** - Step-by-step guide for building a browser automation MCP server using Playwright
+
 ## 🌟 Reference Servers
 
 These servers aim to demonstrate MCP features and the official SDKs.
